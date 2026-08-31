@@ -16,7 +16,7 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 </div>
 
 <div align="center">
-<img alt="Luna Executor Interface" src="https://raw.githubusercontent.com/laplaplaplas/download/main/assets/evicted_menu_shooter.png" />
+<img alt="Luna Executor Interface" src="assets/preview.png" />
 </div>
 
 ---
